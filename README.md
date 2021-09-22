@@ -14,3 +14,5 @@ Requires Cordova installed
 --> replace www/ folder
 
 --> run on android
+
+[More Features to be added]
